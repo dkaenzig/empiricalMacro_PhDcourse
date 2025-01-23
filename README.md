@@ -23,8 +23,8 @@ climate policy.
 
 [Syllabus](empmacro_syllabus.pdf)
 
-Reading list
+[Reading list](empmacro_readinglist.pdf)
 
-**[Slides](slides):**
+**[Slides](slides)**
 
-Exercises
+**[Exercises](exercises)**
