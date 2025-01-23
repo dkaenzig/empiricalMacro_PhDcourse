@@ -19,12 +19,12 @@ Throughout the course, we will cover exciting applications, ranging from the tra
 of monetary and fiscal policy to the aggregate and distributional effects of energy price shocks and
 climate policy.
 
-Directory:
+### Directory:
 
-Syllabus
+[Syllabus](empmacro_syllabus.pdf)
 
 Reading list
 
-Slides
+**[Slides](slides):**
 
 Exercises
